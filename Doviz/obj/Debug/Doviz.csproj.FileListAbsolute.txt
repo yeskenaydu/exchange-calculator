@@ -1,0 +1,18 @@
+c:\users\khnyazilim02\documents\visual studio 2015\Projects\Doviz\Doviz\bin\Debug\Doviz.exe.config
+c:\users\khnyazilim02\documents\visual studio 2015\Projects\Doviz\Doviz\bin\Debug\Doviz.exe
+c:\users\khnyazilim02\documents\visual studio 2015\Projects\Doviz\Doviz\bin\Debug\Doviz.pdb
+c:\users\khnyazilim02\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.csprojResolveAssemblyReference.cache
+c:\users\khnyazilim02\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.Form1.resources
+c:\users\khnyazilim02\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.Properties.Resources.resources
+c:\users\khnyazilim02\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.csproj.GenerateResource.Cache
+c:\users\khnyazilim02\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.exe
+c:\users\khnyazilim02\documents\visual studio 2015\Projects\Doviz\Doviz\obj\Debug\Doviz.pdb
+C:\Users\Baran\Desktop\Ders\Staj Projeler\Doviz\Doviz\bin\Debug\Doviz.exe.config
+C:\Users\Baran\Desktop\Ders\Staj Projeler\Doviz\Doviz\bin\Debug\Doviz.exe
+C:\Users\Baran\Desktop\Ders\Staj Projeler\Doviz\Doviz\bin\Debug\Doviz.pdb
+C:\Users\Baran\Desktop\Ders\Staj Projeler\Doviz\Doviz\obj\Debug\Doviz.csprojAssemblyReference.cache
+C:\Users\Baran\Desktop\Ders\Staj Projeler\Doviz\Doviz\obj\Debug\Doviz.Form1.resources
+C:\Users\Baran\Desktop\Ders\Staj Projeler\Doviz\Doviz\obj\Debug\Doviz.Properties.Resources.resources
+C:\Users\Baran\Desktop\Ders\Staj Projeler\Doviz\Doviz\obj\Debug\Doviz.csproj.GenerateResource.cache
+C:\Users\Baran\Desktop\Ders\Staj Projeler\Doviz\Doviz\obj\Debug\Doviz.exe
+C:\Users\Baran\Desktop\Ders\Staj Projeler\Doviz\Doviz\obj\Debug\Doviz.pdb
